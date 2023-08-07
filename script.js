@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 //to store movies data
 let movies = [];
 
@@ -392,7 +392,7 @@ function switchTab(event) {
 
 allTab.addEventListener('click', switchTab);
 favouritesTab.addEventListener('click', switchTab);
-=======
+
 // to store movies data
 let movies = [];
 //store page number
@@ -765,4 +765,4 @@ function switchTab(event){
 
 allTab.addEventListener('click', switchTab);
 favouritesTab.addEventListener('click', switchTab)
->>>>>>> f7d8a8b3029e782750bd45d4e3f4c99e417172a0
+
